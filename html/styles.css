@@ -1,0 +1,13 @@
+body {
+	background-color: #50C878;
+}
+
+#cover_image{
+	width: 400px;
+	margin:0 auto;
+}
+
+#cover_image img { 
+	width: 400px;
+	height:400px;
+}
